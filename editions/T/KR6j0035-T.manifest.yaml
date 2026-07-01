@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0035/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0035/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經瑜伽十八會指歸
+  identifiers:
+    krp: KR6j0035
+    cbeta: T18n0869
+    cbeta_old_id: T18n0869
+    authorityid: CA0001647
+    json_key: T0869
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0869.xml
+    old_id: T18n0869
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0035_000-T.yaml, hash: 'sha256:2c87714b9ed0296f41f96bf177a7c4f73ecba3600ff3d9cd5c58e801a6025e07'}
+  - {seq: 1, filename: KR6j0035_001-T.yaml, hash: 'sha256:2406c8cf87ae5060243a55048143d8d07cd459da3c944545d13a53e7ffa531c4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0035_000-T.markers.yaml, hash: 'sha256:254472b19df5277db1d42c3dbacd549655ee9f027233c124a37708d039c341f1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0035_001-T.markers.yaml, hash: 'sha256:1fc882938106bf474521afe7fb640ddff911725830f5ee8a5c85fd92b7b74e07'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0035_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3933
+  label: '金剛頂經瑜伽十八會指歸一
+
+    卷'
+  type: juan
+  level: 1
+hash: sha256:a942c468b661636c2fb7e016d0aaf79c72adeff08a15fcc5ac3574dc0e560c7d

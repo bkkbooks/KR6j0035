@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0035/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經瑜伽十八會指歸
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0869.xml
+    old_id: T18n0869
+hash: sha256:2c87714b9ed0296f41f96bf177a7c4f73ecba3600ff3d9cd5c58e801a6025e07
